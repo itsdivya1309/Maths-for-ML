@@ -3,5 +3,6 @@ The essential mathematics for Machine Learning and Data Science, majorly coverin
 
 ## Linear Algebra
 
+* **Basics of Linear Algebra**
 * **LU Decomposition**
 * **Matrix inverse**
